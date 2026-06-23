@@ -1,8 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 div{
+    color: white;
     width: 1000px;
     height: 1000px;
     border: 500 dotted red;
     box-shadow: 12px -12px 27px 7px rgba(0,0,0,0.61) inset;
 -webkit-box-shadow: 12px -12px 27px 7px rgba(0,0,0,0.61) inset;
 -moz-box-shadow: 12px -12px 27px 7px rgba(0,0,0,0.61) inset;
+/* 
+border-radius: 79px;
+background: #e0e0e0;
+box-shadow: inset -30px 30px 59px #707070,
+            inset 30px -30px 59px #ffffff; */
+}
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1124&q=100');
+    background-position: center;
+}
+
+h1{
+    color: white;
+}
+p{
+    color: white;
 }
