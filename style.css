@@ -1,0 +1,8 @@
+div{
+    width: 1000px;
+    height: 1000px;
+    border: 500 dotted red;
+    box-shadow: 12px -12px 27px 7px rgba(0,0,0,0.61) inset;
+-webkit-box-shadow: 12px -12px 27px 7px rgba(0,0,0,0.61) inset;
+-moz-box-shadow: 12px -12px 27px 7px rgba(0,0,0,0.61) inset;
+}
